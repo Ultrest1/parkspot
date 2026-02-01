@@ -6,9 +6,9 @@ title: Privacy Policy
 
 Last updated: **2026-02-01**
 
-This Privacy Policy explains how **[APP_NAME]** (“the App”) collects, uses, and shares information when you use the App.
+This Privacy Policy explains how ParkSpot – Car Location (“the App”) collects, uses, and shares information when you use the App.
 
-If you have any questions, contact us at: **[SUPPORT_EMAIL]**
+If you have any questions, contact us at:ultrest12@gmail.com
 
 ---
 
